@@ -20,14 +20,14 @@
 - Para verificar o status
 `Comando git status`
 
-1. Untracked File: quando o arquivo ainda não foi adicionado para seu controle de versão. 
+* Untracked File: quando o arquivo ainda não foi adicionado para seu controle de versão. 
 
-2. Changes to be commited: quando o arquivo faz parte do seu versionamento e está pronto para ser comitado
+* Changes to be commited: quando o arquivo faz parte do seu versionamento e está pronto para ser comitado
 
 `git add <nome_arquivo>
 git add --all`
 
-3. Commited: quando você comita sua aplicação
+* Commited: quando você comita sua aplicação
 
 `git commit`
 
@@ -58,6 +58,6 @@ exemplo https://github.com/jaysongyn/aula-git.git
 
 - Para enviar os arquivos para o servidor basta digitar o comando. 
 
-'git push origin master'
+`git push origin master`
 
 **Para mais informações acesse minha [wiki Page!](https://desenvolvimento.wiki.zoho.com)**
