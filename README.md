@@ -27,6 +27,10 @@
 `git add <nome_arquivo>
 git add --all`
 
+3. Commited: quando você comita sua aplicação
+
+`git commit`
+
 - Para verificar basta digitar novamente 
 
 `git status`
@@ -36,10 +40,6 @@ git add --all`
 
 `git reset HEAD <nome_arquivo>`
 
-
-3. Commited: quando você comita sua aplicação
-
-`git commit`
 
 **DICA**
 - Para pular etapa dois e já comitar todos os arquivo basta digitar
