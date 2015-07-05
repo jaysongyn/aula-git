@@ -31,7 +31,7 @@ git add --all`
 
 `git status`
 
-##DICA
+**DICA**
 - Para voltar um arquivo no estado de untracked basta digitar
 
 `git reset HEAD <nome_arquivo>`
@@ -41,7 +41,7 @@ git add --all`
 
 `git commit`
 
-##DICA
+**DICA**
 - Para pular etapa dois e já comitar todos os arquivo basta digitar
 
 `git commit -a`
